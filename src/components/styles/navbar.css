@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+
+.brand-logo {
+    font-family: 'Lobster', cursive;    
+}
+
+
+@media screen and (max-width: 768px) {
+    .brand-logo {
+        margin: 0 auto;
+    }
+}

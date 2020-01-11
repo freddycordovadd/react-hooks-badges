@@ -1,3 +1,9 @@
+Proyecto creado con "Create React App" y usando React.js y React Hooks
+
+Project created with "Create React App" and using React.js and React Hooks
+
+---------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
